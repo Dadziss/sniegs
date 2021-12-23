@@ -1,0 +1,2 @@
+# sniegs
+Sniegs snieg
